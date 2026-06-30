@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lancasterpestcontrolsquad.com/sitemap.xml
